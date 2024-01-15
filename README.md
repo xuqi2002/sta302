@@ -1,1 +1,1 @@
-# sta302 tut 2
+# sta302 tut 2 short essay
